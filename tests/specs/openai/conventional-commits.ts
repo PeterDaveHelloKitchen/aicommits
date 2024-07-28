@@ -140,7 +140,7 @@ export default testSuite(({ describe }) => {
 			} as ValidConfig;
 			const commitMessages = await generateCommitMessage(
 				OPENAI_KEY!,
-				'gpt-3.5-turbo',
+				'gpt-4o-mini',
 				config.locale,
 				gitDiff,
 				config.generate,

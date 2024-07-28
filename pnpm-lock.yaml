@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@dqbd/tiktoken':
-    specifier: ^1.0.2
-    version: 1.0.7
+    specifier: ^1.0.15
+    version: 1.0.15
 
 devDependencies:
   '@clack/prompts':
@@ -100,8 +100,8 @@ packages:
     bundledDependencies:
       - is-unicode-supported
 
-  /@dqbd/tiktoken@1.0.7:
-    resolution: {integrity: sha512-bhR5k5W+8GLzysjk8zTMVygQZsgvf7W1F0IlL4ZQ5ugjo5rCyiwGM5d8DYriXspytfu98tv59niang3/T+FoDw==}
+  /@dqbd/tiktoken@1.0.15:
+    resolution: {integrity: sha512-a6I67K1xUkuqcuwulobIJiLikkoE7egMaviI1Jg5bxSn2V7QGqXsGE3jTKr8UIOU/o74mAAd5TkeXFNBtaKF4A==}
     dev: false
 
   /@esbuild/android-arm64@0.18.20:
